@@ -1,0 +1,246 @@
+{
+  "psikolog": [
+    {
+      "name": "Berkant Güney",
+      "expertise": "Psikolog | Aile Danışmanı",
+      "image": "@/components/experts/expertData/image/1672396929619121.jpg",
+      "activity": "Çevrim içi",
+      "video": "239",
+      "call": "24",
+      "language": "TR",
+      "Tags": [
+        "Kaygı(Anksiyete)",
+        "Depresyon",
+        "Tramva Sonrası Stres Bozuklukluğu",
+        "Obsesif Kompulsif Bozukluk",
+        "Uyum Bozuklukları"
+      ],
+      "money": "420"
+    },
+    {
+      "name": "Berkant Güney",
+      "expertise": "Psikolog | Aile Danışmanı",
+      "image": "@/components/experts/expertData/image/1672396929619121.jpg",
+      "activity": "Çevrim içi",
+      "video": "239",
+      "call": "24",
+      "language": "TR",
+      "Tags": [
+        "Kaygı(Anksiyete)",
+        "Depresyon",
+        "Tramva Sonrası Stres Bozuklukluğu",
+        "Obsesif Kompulsif Bozukluk",
+        "Uyum Bozuklukları"
+      ],
+      "money": "420"
+    },
+    {
+      "name": "Berkant Güney",
+      "expertise": "Psikolog | Aile Danışmanı",
+      "image": "@/components/experts/expertData/image/1672396929619121.jpg",
+      "activity": "Çevrim içi",
+      "video": "239",
+      "call": "24",
+      "language": "TR",
+      "Tags": [
+        "Kaygı(Anksiyete)",
+        "Depresyon",
+        "Tramva Sonrası Stres Bozuklukluğu",
+        "Obsesif Kompulsif Bozukluk",
+        "Uyum Bozuklukları"
+      ],
+      "money": "420"
+    },
+    {
+      "name": "Berkant Güney",
+      "expertise": "Psikolog | Aile Danışmanı",
+      "image": "@/components/experts/expertData/image/1672396929619121.jpg",
+      "activity": "Çevrim içi",
+      "video": "239",
+      "call": "24",
+      "language": "TR",
+      "Tags": [
+        "Kaygı(Anksiyete)",
+        "Depresyon",
+        "Tramva Sonrası Stres Bozuklukluğu",
+        "Obsesif Kompulsif Bozukluk",
+        "Uyum Bozuklukları"
+      ],
+      "money": "420"
+    },
+    {
+      "name": "Berkant Güney",
+      "expertise": "Psikolog | Aile Danışmanı",
+      "image": "@/components/experts/expertData/image/1672396929619121.jpg",
+      "activity": "Çevrim içi",
+      "video": "239",
+      "call": "24",
+      "language": "TR",
+      "Tags": [
+        "Kaygı(Anksiyete)",
+        "Depresyon",
+        "Tramva Sonrası Stres Bozuklukluğu",
+        "Obsesif Kompulsif Bozukluk",
+        "Uyum Bozuklukları"
+      ],
+      "money": "420"
+    }
+  ],
+  "diyetisyen": [
+    {
+      "name": "Nurseda Seyhan",
+      "expertise": "Diyetisyen",
+      "image": "@/components/experts/expertData/image/1698667849238017.png",
+      "activity": "Meşgul",
+      "video": "2",
+      "call": "0",
+      "language": "TR|EN",
+      "Tags": [
+        "Kilo Verme",
+        "Diğer Hastalıklar",
+        "Yeme Bozuklukları",
+        "Hamilelik ve Doğum Sonrası Beslenme",
+        "Çocukluk Ve Ergenlik Beslenme"
+      ],
+      "money": "270"
+    },
+    {
+      "name": "Nurseda Seyhan",
+      "expertise": "Diyetisyen",
+      "image": "@/components/experts/expertData/image/1698667849238017.png",
+      "activity": "Meşgul",
+      "video": "2",
+      "call": "0",
+      "language": "TR|EN",
+      "Tags": [
+        "Kilo Verme",
+        "Diğer Hastalıklar",
+        "Yeme Bozuklukları",
+        "Hamilelik ve Doğum Sonrası Beslenme",
+        "Çocukluk Ve Ergenlik Beslenme"
+      ],
+      "money": "270"
+    },
+    {
+      "name": "Nurseda Seyhan",
+      "expertise": "Diyetisyen",
+      "image": "@/components/experts/expertData/image/1698667849238017.png",
+      "activity": "Meşgul",
+      "video": "2",
+      "call": "0",
+      "language": "TR|EN",
+      "Tags": [
+        "Kilo Verme",
+        "Diğer Hastalıklar",
+        "Yeme Bozuklukları",
+        "Hamilelik ve Doğum Sonrası Beslenme",
+        "Çocukluk Ve Ergenlik Beslenme"
+      ],
+      "money": "270"
+    },
+    {
+      "name": "Nurseda Seyhan",
+      "expertise": "Diyetisyen",
+      "image": "@/components/experts/expertData/image/1698667849238017.png",
+      "activity": "Meşgul",
+      "video": "2",
+      "call": "0",
+      "language": "TR|EN",
+      "Tags": [
+        "Kilo Verme",
+        "Diğer Hastalıklar",
+        "Yeme Bozuklukları",
+        "Hamilelik ve Doğum Sonrası Beslenme",
+        "Çocukluk Ve Ergenlik Beslenme"
+      ],
+      "money": "270"
+    },
+    {
+      "name": "Nurseda Seyhan",
+      "expertise": "Diyetisyen",
+      "image": "@/components/experts/expertData/image/1698667849238017.png",
+      "activity": "Meşgul",
+      "video": "2",
+      "call": "0",
+      "language": "TR|EN",
+      "Tags": [
+        "Kilo Verme",
+        "Diğer Hastalıklar",
+        "Yeme Bozuklukları",
+        "Hamilelik ve Doğum Sonrası Beslenme",
+        "Çocukluk Ve Ergenlik Beslenme"
+      ],
+      "money": "270"
+    }
+  ],
+  "egitmen": [
+    {
+      "name": "Yavuz İhsan Kılıç",
+      "expertise": "Eğitmen",
+      "image": "@/components/experts/expertData/image/1681463018595719.png",
+      "activity": "Çevrim içi",
+      "video": "12",
+      "call": "0",
+      "language": "TR",
+      "Tags": [
+        "Fonksiyonel Antrenman",
+        "Atletik Performans",
+        "Düzeltici Egzersizler",
+        "Medikal Fitness",
+        "Metabolik Antrenman"
+      ],
+      "money": "245"
+    },
+    {
+      "name": "Yavuz İhsan Kılıç",
+      "expertise": "Eğitmen",
+      "image": "@/components/experts/expertData/image/1681463018595719.png",
+      "activity": "Çevrim içi",
+      "video": "12",
+      "call": "0",
+      "language": "TR",
+      "Tags": [
+        "Fonksiyonel Antrenman",
+        "Atletik Performans",
+        "Düzeltici Egzersizler",
+        "Medikal Fitness",
+        "Metabolik Antrenman"
+      ],
+      "money": "245"
+    },
+    {
+      "name": "Yavuz İhsan Kılıç",
+      "expertise": "Eğitmen",
+      "image": "@/components/experts/expertData/image/1681463018595719.png",
+      "activity": "Çevrim içi",
+      "video": "12",
+      "call": "0",
+      "language": "TR",
+      "Tags": [
+        "Fonksiyonel Antrenman",
+        "Atletik Performans",
+        "Düzeltici Egzersizler",
+        "Medikal Fitness",
+        "Metabolik Antrenman"
+      ],
+      "money": "245"
+    },
+    {
+      "name": "Yavuz İhsan Kılıç",
+      "expertise": "Eğitmen",
+      "image": "@/components/experts/expertData/image/1681463018595719.png",
+      "activity": "Çevrim içi",
+      "video": "12",
+      "call": "0",
+      "language": "TR",
+      "Tags": [
+        "Fonksiyonel Antrenman",
+        "Atletik Performans",
+        "Düzeltici Egzersizler",
+        "Medikal Fitness",
+        "Metabolik Antrenman"
+      ],
+      "money": "245"
+    }
+  ]
+}
